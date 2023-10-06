@@ -11,7 +11,7 @@
 </p>
 
 - 💻 I work at Red Hat on OpenShift in networking and lead the release note team.
-- 🌱 I’m currently learning DevOps and OVN-Kubernetes interconnect networking architecture.
+- 🌱 I’m currently learning DevOps.
 - 📫 How to reach me <a href="mailto:oumw.udesh@gmail.com">gmail <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="20" width="30"></a><br>
 - ⚡ Fun fact I'm a Brazilian jiu-jitsu ⬛️⬛️⬛️🟥🟥⬛️
 
