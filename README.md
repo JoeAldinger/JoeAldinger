@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joe Aldinger PhD</h1>
-<h3 align="center">I'm a Technical writer who enjoys learning new things and working on new technologies🌟.</h3>
+<h3 align="center">I'm a Technical writer who enjoys learning new technologies🌟.</h3>
 
 <br>
 
