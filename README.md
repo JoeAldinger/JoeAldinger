@@ -65,10 +65,14 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<div align="center">
-  <a href="https://github.com/JoeAldinger">
-    <img src="https://honzaap.github.io/GithubCity/?name=JoeAldinger&year=2023" alt="GitHub City GIF" />
+## Check out my GitHub City!
+
+<div style="text-align: center;">
+  <a href="https://honzaap.github.io/GithubCity/?name=JoeAldinger&year=2023">
+    <img src="https://github.com/JoeAldinger/JoeAldinger/blob/main/Screenshot%202023-10-06%20at%201.10.56%20PM.png" alt="GitHub City Screenshot" width="100%" style="max-width: 100%; height: auto;">
   </a>
 </div>
+
+Click the image above to explore my GitHub City!
 
 [JoeAldinger](https://github.com/JoeAldinger)
