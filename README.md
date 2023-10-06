@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Joe Aldinger</h1>
-<h3 align="center">I'm a Technical writer with a PhD from University at Buffalo🌟.</h3>
+<h1 align="center">Hi 👋, I'm Joe Aldinger PhD</h1>
+<h3 align="center">I'm a Technical writer who enjoys learning new things and working on new technologies🌟.</h3>
 
 <br>
 
@@ -11,7 +11,7 @@
 </p>
 
 - 💻 I work at Red Hat on OpenShift in networking and lead the release note team.
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning DevOps and OVN-Kubernetes interconnect networking architecture.
 - 📫 How to reach me <a href="mailto:oumw.udesh@gmail.com">gmail <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="20" width="30"></a><br>
 - ⚡ Fun fact I'm a Brazilian jiu-jitsu ⬛️⬛️⬛️🟥🟥⬛️
 
