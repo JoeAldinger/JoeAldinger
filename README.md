@@ -7,6 +7,7 @@
 <p align="right">
   <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 </p>
+
 - 💻 I work at Red Hat on OpenShift in networking and lead the release note team.
 - 🌱 I’m currently learning DevOps.
 - 📫 How to reach me <a href="mailto:oumw.udesh@gmail.com">gmail <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="20" width="30"></a><br>
