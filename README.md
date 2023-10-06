@@ -67,8 +67,7 @@
 
 <div align="center">
   <a href="https://github.com/JoeAldinger">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-         alt="snake" />
+    <img src="https://honzaap.github.io/GithubCity/?name=JoeAldinger&year=2023" alt="GitHub City GIF" />
   </a>
 </div>
 
