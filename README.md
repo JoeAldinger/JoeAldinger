@@ -21,7 +21,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joe aldinger" height="30" width="40" />
   </a>
   <a href="https://github.com/JoeAldinger" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/svg/github-light.svg" alt="GitHub" height="30" width="40" />
+    <img align="center" src="https://github.com/Automattic/social-logos/blob/trunk/svg-min/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
 
