@@ -33,7 +33,7 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
   </a>
   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/adobe-photoshop.svg" alt="photoshop" width="40" height="40" />
   </a>
   <a href="https://github.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/git-icon.svg" alt="git" width="40" height="40" />
