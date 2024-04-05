@@ -44,6 +44,11 @@
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/kubernetes.svg" alt="kubernetes" width="40" height="40" />
   </a>
 </p>
+</a>
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png" alt="docker" width="40" height="40" />
+  </a>
+</p>
 
 <br>
 <h3 align="left">Languages:</h3>
