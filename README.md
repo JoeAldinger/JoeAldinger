@@ -38,8 +38,6 @@
   <a href="https://github.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/git-icon.svg" alt="git" width="40" height="40" />
   </a>
-</p>
-</a>
   <a href="https://network-policy-api.sigs.k8s.io/" target="_blank" rel="noreferrer">
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/kubernetes.svg" alt="kubernetes" width="40" height="40" />
   </a>
