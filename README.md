@@ -44,7 +44,10 @@
 </p>
 </a>
   <a href="https://www.docker.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png" alt="docker" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png" alt="docker" width="60" height="40" />
+  </a>
+<a href="https://podman.io" target="_blank" rel="noreferrer">
+    <img src="https://developers.redhat.com/sites/default/files/podman-logo.png" alt="podman" width="100" height="40" />
   </a>
 </p>
 
