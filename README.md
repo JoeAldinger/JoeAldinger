@@ -54,10 +54,10 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
     target="_blank" rel="noreferrer">
-    <p align="left"> <img
-      src="https://github.com/gilbarbara/logos/blob/main/logos/yaml.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://yaml.org/"
-    target="_blank" rel="noreferrer">
+      </a>
+      <img src="https://github.com/gilbarbara/logos/blob/main/logos/yaml.svg"
+      alt="html5" width="40" height="40" /> </a> 
+      <a href="https://yaml.org/" target="_blank" rel="noreferrer">
 
 <h3 align="left">Statistical Data:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoeAldinger&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
